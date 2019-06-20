@@ -1,5 +1,5 @@
 # LocalJS 一個中文函式庫
-##開發狀態
+## 開發狀態
 ![buildImg](https://img.shields.io/badge/build-passing-green.svg?style=plastic) 
 ![versionImg](https://img.shields.io/badge/version-1.0.1-green.svg?style=plastic)
 
@@ -12,12 +12,12 @@
 
 利用中文即可寫出簡而易懂的程式
 
-##加入到網頁中
+## 加入到網頁中
 ```
 <script src=""></script>
 ```
 
-##更改內容
+## 更改內容
 *1.0.0
 	
 *1.0.1
