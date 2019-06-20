@@ -1,4 +1,4 @@
-### LocalJS 一個中文函式庫
+# LocalJS 一個中文函式庫
 ##開發狀態
 ![buildImg](https://img.shields.io/badge/build-passing-green.svg?style=plastic) 
 ![versionImg](https://img.shields.io/badge/version-1.0.1-green.svg?style=plastic)
