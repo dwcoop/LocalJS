@@ -1,7 +1,10 @@
-/* 
- * localJS V1.0.1
- * proudly make in ROC
- * localjs.blogspot.com
+/*
+ * LocalJS
+ * 張睿玹版權所有
+ * https://github.com/dwcoop/LocalJS/license.html
+ * 文件: LocalJS-1.0.1.js
+ * 版本: V1.0.1
+ * 日期: 2019-06-20T21:16Z
  */
 (function(global){
   localJS={
