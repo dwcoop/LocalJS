@@ -19,9 +19,12 @@
 
 ### 更改內容
   - 1.0.0
-	
+	正式釋出的第一個版本<br>
+	刪除許多無用的方法
+	直接編譯```script```標籤的內容
+	而不是只提供中文的方法
   - 1.0.1
 	
 
 ### 連結
-[官方文件](https://localjs.blogspot.com/ "官方文件")
+[官方文件](https://localjs.blogspot.com?utm_source=github_dwcoop "官方文件")
