@@ -3,7 +3,7 @@
 ![buildImg](https://img.shields.io/badge/build-passing-green.svg?style=plastic) 
 ![versionImg](https://img.shields.io/badge/version-1.0.1-green.svg?style=plastic)
 
-##說明
+>說明
 用中文寫程式寫網頁
 
 一點都不困難
