@@ -27,6 +27,8 @@
   - 1.0.1<br>
 	新版本把需要編譯的方法改成物件組成<br>
 	使方法的新增更為容易
+  - 1.0.2<br>
+	新增: 分號取代<br>
 
 ### 連結
 [官方文件](https://localjs.blogspot.com?utm_source=github_dwcoop "官方文件")
