@@ -1,4 +1,3 @@
-# 近期將推出 HanJS , 用來取代LocalJS
 # LocalJS 一個中文函式庫
 ### 開發狀態
 ![buildImg](https://img.shields.io/badge/build-passing-green.svg?style=plastic) 
